@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chelsea FC - Official Fan Page</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Chelsea FC Fan Page</h1>
+        <nav>
+            <ul>
+                <li><a href="#history">History</a></li>
+                <li><a href="#achievements">Achievements</a></li>
+                <li><a href="#squad">Squad</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="history">
+        <h2>Club History</h2>
+        <p>Chelsea Football Club, founded in 1905, is one of the most successful clubs in English football...</p>
+    </section>
+    
+    <section id="achievements">
+        <h2>Major Achievements</h2>
+        <ul>
+            <li>Premier League Titles: 6</li>
+            <li>FA Cups: 8</li>
+            <li>UEFA Champions League: 2</li>
+            <li>UEFA Europa League: 2</li>
+        </ul>
+    </section>
+    
+    <section id="squad">
+        <h2>Current Squad</h2>
+        <p>Check out the latest Chelsea squad on the official website.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>For inquiries, visit the official <a href="https://www.chelseafc.com/" target="_blank">Chelsea FC website</a>.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Chelsea FC Fan Page. All rights reserved.</p>
+    </footer>
+</body>
+</html>
